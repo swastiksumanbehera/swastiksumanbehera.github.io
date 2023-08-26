@@ -4,8 +4,8 @@ permalink: /contact/
 author_profile: true
 ---
 
-You can get in touch with me through my email: rdahale [at] iaa [dot] es
+You can get in touch with me through my email: bswastik23 [at] iitk [dot] ac [dot] in
 
 Address: <br/>
-Instituto de Astrofísica de Andalucía (IAA - CSIC) <br/>
-Glorieta de la Astronomía s/n, 18008 Granada, Spain <br/>
+IIT K <br/>
+Kanpur, India <br/>
