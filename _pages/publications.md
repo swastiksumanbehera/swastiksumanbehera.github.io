@@ -5,12 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+The full list my publications is available [here](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&p_=0&q=author%3A(%22Dahale%2C%20Rohan%22)&sort=date%20desc%2C%20bibcode%20desc){:target="_blank"}.
 
-{% include base_path %}
+## Selected Publications
+---
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% for publi in site.data.publications %}
+
+ <strong> {{ publi.title }} </strong> <br />
+ <span style="color:grey"> <em>{{ publi.month }} {{ publi.year }},  {{ publi.journal }}, {{ publi.volume }}, {{ publi.pages }} </em> </span> <br />
+  <em>{{ publi.authors }} </em><br /> <a href="{{ publi.url }}"> DOI: {{ publi.doi }}</a>
+ 
 {% endfor %}
+
