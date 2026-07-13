@@ -12,3 +12,10 @@ redirect_from:
 A PDF of my CV can be downloaded [here](/files/CV_Swastik_Suman.pdf){:target="_blank"}.
 
 <!--<iframe src="/files/CV_Swastik_Suman.pdf" width="100%" height="700px"></iframe>-->
+
+## Experience
+---
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>PhD Candidate, Indian Institute of Technology Kanpur</strong></span>
+  <span>Aug 2023 - Present</span>
+</div>
