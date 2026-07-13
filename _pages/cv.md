@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF of my CV can be downloaded [here](/files/swastiksuman.pdf){:target="_blank"}.
+A PDF of my CV can be downloaded [here](/files/CV_Swastik_Suman.pdf){:target="_blank"}.
