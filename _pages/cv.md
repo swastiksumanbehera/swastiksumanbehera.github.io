@@ -16,6 +16,9 @@ A PDF of my CV can be downloaded [here](/files/CV_Swastik_Suman.pdf){:target="_b
 ## Experience
 ---
 <div style="display: flex; justify-content: space-between;">
-  <span><strong>PhD Candidate, <i>Indian Institute of Technology Kanpur</i></strong></span>
+  <span>
+    <strong>PhD Candidate</strong>, Indian Institute of Technology Kanpur<br/>
+    
+  </span>
   <span style="color:grey"><i>Aug 2023 - Present</i></span>
 </div>
