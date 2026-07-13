@@ -19,7 +19,7 @@ A PDF of my CV can be downloaded [here](/files/CV_Swastik_Suman.pdf){:target="_b
   <span>
     <strong>PhD Candidate, Indian Institute of Technology Kanpur</strong><br/>
     <i>PhD in Geological Sciences</i> CPI: 9.84/10<br/>
-    Supervisor: <a href="https://home.iitk.ac.in/~amarag/pages/Amar.html">Dr. Amar Agarwal</a><br/>
+    Supervisor: <a href="https://home.iitk.ac.in/~amarag/pages/Amar.html" target="_blank">Dr. Amar Agarwal</a><br/>
     Topic: Microstructural, experimental, and simulation-based studies to understand the mechanism of fast deformation in heterogeneous targets due to shock waves<br/>
     Study area: Dhala impact structure, Madhya Pradesh, India<br/>
   </span>
