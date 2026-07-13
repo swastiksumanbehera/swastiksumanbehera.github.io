@@ -11,4 +11,4 @@ redirect_from:
 
 A PDF of my CV can be downloaded [here](/files/CV_Swastik_Suman.pdf){:target="_blank"}.
 
-<iframe src="/files/CV_Swastik_Suman.pdf" width="100%" height="500px"></iframe>
+<iframe src="/files/CV_Swastik_Suman.pdf" width="100%" height="90%"></iframe>
