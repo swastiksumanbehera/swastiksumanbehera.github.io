@@ -19,15 +19,15 @@ author_profile: true
 ## Conferences
 ---
 <strong>VNIR-FTIR Spectral Characterization of Monomict Breccias from the Dhala Impact Structure, India.</strong><br/>
-<span style="color:grey"><em><i>American Geophysical Union 2025</i></em></span><br/>
+<span style="color:grey"><em>American Geophysical Union 2025</em></span><br/>
   <em>Sahoo, A., <b>Behera, S.S.</b>, Bhattacharya, S., Agarwal, A.</em><br/>Link:<a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1859954">agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1859954</a>
 
 <strong>The probable direction of impact at Dhala impact structure, India deciphered from microfracture intensity and X-ray diffractometry: a new potential impact direction indicator.</strong><br/>
-<span style="color:grey"><em><i>Rock Deformation and Structures 8, 2024</i></em></span><br/>
+<span style="color:grey"><em>Rock Deformation and Structures 8, 2024</em></span><br/>
   <em><b>Behera, S.S.</b>, Tiwari. S., Pandey, A. K., Agarwal, A., Ojha, A. K.</em><br/>
 
 <strong>Characterization of vein-sets and estimation of stress orientations and stress ratios from the Buxa dolomite, Main Boundary thrust ( MBT ) sheet, Siang Valley, Arunanchal Lesser Himalaya. </strong><br/>
-<span style="color:grey"><em><i>European Geosciences Union General Assembly 2022</i></em></span><br/>
+<span style="color:grey"><em>European Geosciences Union General Assembly 2022</em></span><br/>
   <em><b>Behera, S.S.</b>, Bhattacharyya, K.</em><br/>DOI:<a href="https://doi.org/10.5194/egusphere-egu22-9169">10.5194/egusphere-egu22-9169</a>
 
 {% endfor %}
