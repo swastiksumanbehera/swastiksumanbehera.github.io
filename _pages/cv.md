@@ -13,7 +13,7 @@ A PDF of my CV can be downloaded [here](/files/CV_Swastik_Suman.pdf){:target="_b
 
 <!--<iframe src="/files/CV_Swastik_Suman.pdf" width="100%" height="700px"></iframe>-->
 
-## Experience
+## Education and Research
 ---
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px">
   <span>
@@ -29,7 +29,7 @@ A PDF of my CV can be downloaded [here](/files/CV_Swastik_Suman.pdf){:target="_b
   <span>
     <strong>Indian Institute of Technology Kanpur</strong><br/>
     <i>Research Intern</i><br/>
-    Supervisor: <a href="https://home.iitk.ac.in/~amarag/pages/Amar.html" target="_blank">Dr. Amar Agarwal</a><br/>
+    Supervisor: Dr. Amar Agarwal<br/>
     Mapping the microfracturing and lattice deformation intensity in the monomict breccia from the Dhala impact structure<br/>
   </span>
   <span style="color:grey"><i>Sep 2022 - Apr 2023</i></span>
