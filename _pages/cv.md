@@ -15,7 +15,7 @@ A PDF of my CV can be downloaded [here](/files/CV_Swastik_Suman.pdf){:target="_b
 
 ## Experience
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px">
   <span>
     <strong>Indian Institute of Technology Kanpur</strong><br/>
     <i>PhD candidate, Geological Sciences</i><br/>
@@ -25,7 +25,7 @@ A PDF of my CV can be downloaded [here](/files/CV_Swastik_Suman.pdf){:target="_b
   </span>
   <span style="color:grey"><i>Aug 2023 - Present</i></span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px">
   <span>
     <strong>Indian Institute of Technology Kanpur</strong><br/>
     <i>Research Intern</i><br/>
@@ -34,7 +34,7 @@ A PDF of my CV can be downloaded [here](/files/CV_Swastik_Suman.pdf){:target="_b
   </span>
   <span style="color:grey"><i>Sep 2022 - Apr 2023</i></span>
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px">
   <span>
     <strong>Indian Institute of Science Education and Research Kolkata</strong><br/>
     <i>Bachelor and Master, Geological Sciences</i><br/>
